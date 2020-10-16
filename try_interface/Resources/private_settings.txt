@@ -1,0 +1,5 @@
+10000
+8760
+False
+True
+True
